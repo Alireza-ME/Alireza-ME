@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
 <h3 align="center">A Back-End developer from Iran</h3>
 
-- 🌱 I’m currently learning **C++ and Python**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **PHP Back-End**
 
