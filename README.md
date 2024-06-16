@@ -16,4 +16,5 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/alireza46067"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="alireza46067" /></a></p><br><br>
+<p>Donate: If you wish to support financially, you can make a donation to the Bitcoin address below:</p>
+<b>Bitcoin Address: bc1qgh7en65e239yrutp83hrlg2c3c26w22xjlytce</b>
