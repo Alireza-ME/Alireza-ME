@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza</h1>
-<h3 align="center">A Back-End developer And Geek (:</h3>
+<h3 align="center">Geek developer (:</h3>
 
 - 🌱 I’m currently learning **Python and C++**
 
